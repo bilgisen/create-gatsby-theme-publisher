@@ -16,7 +16,7 @@ const Home = ({ location }) => {
 
   const imageData = useStaticQuery(graphql`
     {
-      file(name: { eq: "hero-bg" }) {
+      file(name: { eq: "arkaplan" }) {
         childImageSharp {
           fluid(maxWidth: 1600) {
             ...GatsbyImageSharpFluid
