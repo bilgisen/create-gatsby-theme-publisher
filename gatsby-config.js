@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Kemer Guide',
-    description: 'Headless WordPress with Gatsby FTW.',
+    description: 'Kemer City Guide',
     author: 'Scott and Justin',
     twitter: '@staticfuse',
     siteUrl: `https://staticfuse.com`,

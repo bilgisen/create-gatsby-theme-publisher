@@ -10,7 +10,7 @@ const publisherTheme = {
     // headings: "#2D3748",
     // links: theme.colors.blue,
     // navLink: "#ffffff",
-    // headerBg: "#2D3748"
+    // headerBg: "#F7FAFC"
   },
 }
 

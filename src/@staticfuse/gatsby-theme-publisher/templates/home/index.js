@@ -7,7 +7,7 @@ import BackgroundImage from 'gatsby-background-image';
 import Layout from '@staticfuse/gatsby-theme-publisher/src/components/Layout';
 import SEO from '@staticfuse/gatsby-theme-publisher/src/components/SEO';
 import PostGrid from '@staticfuse/gatsby-theme-publisher/src/components/PostGrid';
-import SiteLogo from '@staticfuse/gatsby-theme-publisher/src/images/site-logo.png';
+import SiteLogo from './site-logo.png';
 import BlogOptin from '@staticfuse/gatsby-theme-publisher/src/components/BlogOptin';
 import useSiteMetadata from '@staticfuse/gatsby-theme-publisher/src/hooks/use-site-metadata';
 
