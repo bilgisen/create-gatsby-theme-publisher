@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Static Fuse',
+    title: 'Kemer Guide',
     description: 'Headless WordPress with Gatsby FTW.',
     author: 'Scott and Justin',
     twitter: '@staticfuse',
@@ -14,7 +14,7 @@ module.exports = {
         mailChimpEndpoint: 0,
         dynamicComments: 1,
         gaTrackingId: 0,
-        wordPressUrl: `https://publishertheme.staticfuse.com`,
+        wordPressUrl: `http://panel.grafon.net/kemer/`,
         blogURI: '/blog'
       },
     },
