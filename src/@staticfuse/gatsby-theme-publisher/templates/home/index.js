@@ -41,24 +41,9 @@ const Home = ({ location }) => {
             justifyContent="space-between"
             alignItems="center"
           >
-            <Box
-              w={['100%', '60%', '45%']}
-              float={['none', 'none', 'right']}
-              p={2}
-              m="auto"
-              order={['1', '1', '2']}
-            >
-              <Image
-                src={SiteLogo}
-                display="block"
-                alt="Site logo"
-                opacity=".8"
-                maxH="250px"
-                m="auto"
-              />
-            </Box>
+            
 
-            <Box w={['100%', '100%', '55%']} color="#fff" mb={[6, 6, '0']}>
+            <Box w={['100%', '100%', '65%']} color="#fff" mb={[6, 6, '0']}>
               <Heading
                 as="h1"
                 fontWeight="600"
@@ -66,22 +51,12 @@ const Home = ({ location }) => {
                 color="white"
                 lineHeight="1.1"
               >
-                {title}
+               <br/> {title}
               </Heading>
               <Text color="white.500" fontSize="md" mb={8} fontWeight="500">
-                Welcome to Kemer Antalya Guide
+                Welcome to Kemer Antalya Guide <br/> 
               </Text>
-              <Button
-                onClick={() => navigate('/blog/')}
-                bg="buttonBg"
-                color="buttonText"
-                rightIcon="arrow-forward"
-                w={['100%', 'auto']}
-                mb={[2, '0']}
-                rounded="full"
-              >
-                Discover
-              </Button>
+            
           
             </Box>
           </Box>
