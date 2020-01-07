@@ -5,7 +5,7 @@ const publisherTheme = {
   colors: {
     ...theme.colors,
     // text: "#2D3748",
-    // primary: theme.colors.blue,
+    // primary: theme.colors.gray,
     // muted: "#999",
     // headings: "#2D3748",
     // links: theme.colors.blue,
